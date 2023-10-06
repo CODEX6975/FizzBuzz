@@ -18,6 +18,7 @@ public class Main {
 
         Tournament tournament1 =
                 new Tournament("PGA",30000.00, list);
+        
 
         tournament1.printInOrderOfTotalPrizeMoney();
 
